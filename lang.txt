@@ -1,0 +1,17 @@
+dirDlg=Select directory
+fileDlg=Select file
+lblFinished=Operation complete.
+progname=Advanced Translation File Converter
+aSourceF=Source file
+aSourceD=Source directory
+bSourceF=Target file (optional)
+bSourceD=Target directory (optional)
+cSourceF=Original file
+cSourceD=Original directory
+browse=Browse
+run=Convert
+statusIdle=No conversion running
+statusWorking=Conversion started, please wait...
+ttlErr=Error
+dirErr=Please select two different directories for source and target. If you leave the "target" field blank, a new directory is created automatically.
+dirExistsErr=The folder %s already exists. Please select a different target directory.
