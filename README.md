@@ -4,6 +4,8 @@ A small program to convert source files into formats usable by standard CAT (com
 The script contains several imports. Make sure you have them all installed before running it. The script runs on Python 2.7. 
 The markdown package must be installed separately.
 
+lang.txt contains the localized interface texts for the program. It is required in order to run atfc.py.
+
 Types of conversion: 
 MD -> HTML: Takes a ZIP file containing a directory of Markdown documents as input and converts all MDs into a single HTML. Warning: The resulting document cannot currently be converted back into pure Markdown. 
 
